@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "unreservs"
+  title: "unreservs.github.io"
   navbar:
     left:
       - href: index.qmd
